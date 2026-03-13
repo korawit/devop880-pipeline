@@ -11,6 +11,7 @@ function App() {
         <p className="small">
          Written by Mr.Korawit Orkphol
         </p>
+        <img src="cat.jpg" style={{ width: '400px' }} />
         <h1>Update by Mr.Korawit Orkphol</h1>
         <p>
           <a
