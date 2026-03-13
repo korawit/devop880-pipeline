@@ -11,6 +11,7 @@ function App() {
         <p className="small">
          Written by Mr.Korawit Orkphol
         </p>
+        <h1>Update by Mr.Korawit Orkphol</h1>
         <p>
           <a
             className="App-link"
